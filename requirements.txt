@@ -1,0 +1,5 @@
+stream2sentence==0.2.9
+coqui_tts==0.24.3
+pyaudio==0.2.14
+pydub==0.25.1
+resampy==0.4.3
